@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "678976003245",
+    "project_id": "perfectlistbrew",
+    "storage_bucket": "perfectlistbrew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678976003245:android:8ebf6af49f30ba9c59ba24",
+        "android_client_info": {
+          "package_name": "com.nice.perfectbrewlist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOgt6kALc2jXcU9_eHDQX0I2ufRPSdNiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
